@@ -34,7 +34,7 @@ python manage.py migrate
 python manage.py createsuperuser
 ```
 
-6. Teste a instalação carregando o servidor de desenvolvimento (http://localhost:8000 no navegador):
+6. Teste a instalação carregando o servidor de desenvolvimento (add no navegador):
 
 ```bash
 python manage.py runserver
@@ -53,6 +53,6 @@ python manage.py runserver
 
 ## Ajuda
 
-Para relatar bugs ou fazer perguntas utilize o [Issues](https://github.com/thiagopena/djangoSIGE/issues) ou via email 
+Para relatar bugs ou fazer perguntas utilize o [Issues](https://github.com/diogowg12/Adotar-Pets-/issues) ou via email 
 diogowg.lima89@gmail.com
 
